@@ -1,9 +1,8 @@
-div{
-    width: 29%;
+.box{
+    width: 29%%;
     background-color: orange;
     margin: 2%;
     float: right;
     padding-top: 28%;
     border-radius: 20px;
-
 }
