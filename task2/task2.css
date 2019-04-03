@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+.box{
+    margin: 2rem 2rem;
+    padding:5px;
+}
+.box2{
+    text-align:center;
+
+}
+.box3{
+    margin:1rem 1rem;
+    padding-top: 5%;
+
+}
+.box4{
+    float: left;
+    margin: 12rem 0 0 5rem;
+    padding-top: 5%;
+}
+.box5{
+    float: right;
+    margin: 12rem 5rem 0 0;
+    padding-top: 5%;
+}
+p{
+    text-align:center;
+    color: #ffffff;
+}
+
