@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51670b03-54e4-414b-9082-f014656f50f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task4/img/iphone1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/img/locked 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/task4/task4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/task4/task4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/task4/登陆.psd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/task2.css" beforeDir="false" afterPath="$PROJECT_DIR$/task2/task2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/task2/task2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/img/logoputao.png" beforeDir="false" afterPath="$PROJECT_DIR$/task3/img/logoputao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/img/putaoteng.png" beforeDir="false" afterPath="$PROJECT_DIR$/task3/img/putaoteng.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/img/task2z.png" beforeDir="false" afterPath="$PROJECT_DIR$/task3/img/task2z.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/img/tasksanren.png" beforeDir="false" afterPath="$PROJECT_DIR$/task3/img/tasksanren.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/task2.css" beforeDir="false" afterPath="$PROJECT_DIR$/task3/task2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/task3/task2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,14 +25,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.7181445">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/task2/task2.html">
+            <entry file="file://$PROJECT_DIR$/task4/task4/task4.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+                <state relative-caret-position="390">
+                  <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -33,10 +42,10 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/task2/task2.css">
+            <entry file="file://$PROJECT_DIR$/task4/task4/task4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+                <state relative-caret-position="813">
+                  <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -48,10 +57,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wan1</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,12 +78,16 @@
         <option value="$PROJECT_DIR$/task1/task1.css" />
         <option value="$PROJECT_DIR$/task2/task2.css" />
         <option value="$PROJECT_DIR$/task2/task2.html" />
+        <option value="$PROJECT_DIR$/task4/task4.html" />
+        <option value="$PROJECT_DIR$/task4/task4.css" />
+        <option value="$PROJECT_DIR$/task4/task4/task4.css" />
+        <option value="$PROJECT_DIR$/task4/task4/task4.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="y" value="84" />
+    <option name="x" value="564" />
+    <option name="y" value="28" />
     <option name="width" value="974" />
     <option name="height" value="963" />
   </component>
@@ -79,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,13 +108,29 @@
             <path>
               <item name="TASK" type="b2602c69:ProjectViewProjectNode" />
               <item name="TASK" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TASK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TASK" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TASK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TASK" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TASK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TASK" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,9 +138,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,16 +177,26 @@
       <workItem from="1554261595705" duration="15447000" />
       <workItem from="1554292952179" duration="1035000" />
       <workItem from="1554294035819" duration="29000" />
+      <workItem from="1554297382283" duration="137000" />
+      <workItem from="1554297811377" duration="3218000" />
+      <workItem from="1554340701770" duration="1135000" />
+      <workItem from="1554342710938" duration="8737000" />
+      <workItem from="1554364641190" duration="9230000" />
+      <workItem from="1554428404261" duration="13590000" />
+      <workItem from="1554469266008" duration="27000" />
+      <workItem from="1554511997829" duration="21033000" />
+      <workItem from="1554546117161" duration="10000" />
+      <workItem from="1554546400904" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22256000" />
+    <option name="totallyTimeSpent" value="79392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10273973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,19 +234,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task2/task2.html">
+    <entry file="file://$PROJECT_DIR$/task4/task4.html" />
+    <entry file="file://$PROJECT_DIR$/task4/task4.css" />
+    <entry file="file://$PROJECT_DIR$/task3/task2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state>
+          <caret column="12" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task2/task2.css">
+    <entry file="file://$PROJECT_DIR$/task3/task2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/task4/task4/task4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/task4/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
