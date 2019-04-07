@@ -67,9 +67,12 @@ body{
 }
 .yin{
     outline: none;
-    border:none
+    border: none;
+    border-left: 1px solid #999999;
+
 }
 .yin2{
     outline: none;
-    border:none
+    border:none;
+    border-left: 1px solid #999;
 }
