@@ -73,7 +73,7 @@ body{
     height: 37px;
     border-bottom: 1px solid #e1e5e7;
     align-items: center;
-    margin-left: 13px;
+    margin-left: 22px;
 }
 .xx{
     border-right: 1px solid #e1e5e7;
@@ -111,7 +111,7 @@ body{
     height: 37px;
     border-bottom: 1px solid #e1e5e7;
     align-items: center;
-    margin-left: 21px;
+    margin-left: 22px;
 }
 .SJ1{
     border-right: 1px solid #e1e5e7;
@@ -139,7 +139,7 @@ body{
 }
 .JS2{
     font-size: 13px;
-    padding: 0 0 0 10px;
+    padding: 0 0 0 15px;
 }
 .FW{
     display: flex;
@@ -178,7 +178,7 @@ body{
     line-height: 50px;
 }
 .JW2{
-    border: 0px solid;
+    border: 0 solid;
     border-radius: 10px;
     background-color: #5fc0c9;
     color: #ffff;
