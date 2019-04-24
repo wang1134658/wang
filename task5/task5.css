@@ -4,7 +4,7 @@ body{
 .AA{
     background-color: #5fc0cd;
     text-align: center;
-    padding: 0px;
+    padding: 0;
     position: fixed;
     width: 100%;
     display: flex;
@@ -34,6 +34,7 @@ body{
 .RT{
     display: flex;
     justify-content: space-around;
+    padding: 0 0 0 20px;
 }
 .wenzi{
     color: #ffffff;
