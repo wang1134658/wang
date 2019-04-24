@@ -19,6 +19,9 @@ body{
 .tu1 {
     padding: 0 0 0 10px;
 }
+.head-box{
+    padding: 18px;
+}
 .AA1{
     background-image: url(img/beijing.png);
     background-repeat: no-repeat;
@@ -27,7 +30,6 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 19px 0 0 19px
 }
 .RT{
     display: flex;
