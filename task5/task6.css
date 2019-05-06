@@ -77,11 +77,11 @@ span{
     display: block;
 }
 .ma{
-    height: 195px;
+    height: 105px;
     border-bottom: 1px solid #e1e5e7;
 }
 .mat{
-    padding: 50px 0 0 20px;
+    padding: 9px 0 0 20px;
     display: flex;
     color: #999999;
 }
@@ -118,7 +118,7 @@ span{
 .FT{
      display: flex;
      align-content: center;
-     justify-content: center;
+     justify-content:space-around;
      background-color: #f8fafb;
      width: 100%;
     margin: 5px 0 0 0;
@@ -129,13 +129,9 @@ span{
     color: #5fc0c9;
     width: 50px;
     text-align: center;
-    padding-right: 70px;
 }
 .ft img{
     width: 100%;
-}
-.ft1{
-    padding-right: 70px;
 }
 .ft2{
      color: #b0b1b1;
