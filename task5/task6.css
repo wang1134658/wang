@@ -4,6 +4,9 @@ body{
 p{
      margin: 0;
 }
+span{
+    line-height: 20px;
+}
 .DD{
     border-bottom: 1px solid #E1E5E8;
     height: 70px;
@@ -15,13 +18,17 @@ p{
     background-color: #5fc0cd;
     display: flex;
     justify-content: space-between;
+    position: fixed;
+}
+.h{
+    padding: 35px;
 }
 .HD{
     width: 40%;
     background-color: #55a8b3;
     display: flex;
     border-radius: 8px;
-    margin: 10px;
+    margin: 10px 0 10px 60px;
 }
 .hd2{
     border: 0 solid;
@@ -115,6 +122,8 @@ p{
      background-color: #f8fafb;
      width: 100%;
     margin: 5px 0 0 0;
+    position: fixed;
+    bottom: 0;
 }
 .ft{
     color: #5fc0c9;
