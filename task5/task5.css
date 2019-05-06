@@ -189,3 +189,14 @@ body{
     text-align: center;
     line-height: 50px;
 }
+a:link{
+    color: white;
+}
+a:visited {
+    color:#ffffff;
+}
+a:hover {
+    color:#FFFF;
+}
+a:link {text-decoration:none;}
+

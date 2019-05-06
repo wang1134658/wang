@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+}
+p{
+     margin: 0;
+}
+.DD{
+    border-bottom: 1px solid #E1E5E8;
+    height: 70px;
+    display: flex;
+}
+.hd{
+    width: 100%;
+    height: 70px;
+    background-color: #5fc0cd;
+    display: flex;
+    justify-content: space-between;
+}
+.HD{
+    width: 40%;
+    background-color: #55a8b3;
+    display: flex;
+    border-radius: 8px;
+    margin: 10px;
+}
+.hd2{
+    border: 0 solid;
+    border-radius: 18px;
+    background-color: #55a8b3;
+    color: #ffff;
+    width: 50%;
+    text-align: center;
+    line-height: 50px;
+}
+.hd3{
+    border: 0 solid;
+    border-radius: 10px;
+    background-color: #ffff;
+    color: #5fc0cd;
+    width: 50%;
+    text-align: center;
+    line-height: 50px;
+}
+.hd4{
+    padding: 10px 25px 10px 0;
+}
+.dd{
+    padding: 0 10px 0 0;
+    color: #b3b3b3;
+    font-size: 16px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: 33.3333%;
+    line-height: 70px;
+    border-right: 1px solid #e1e5e7;
+    text-align: center;
+    background: url(img/XZ.png)no-repeat center right;
+    background-position: 94%;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width:100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.ma{
+    height: 195px;
+    border-bottom: 1px solid #e1e5e7;
+}
+.mat{
+    padding: 50px 0 0 20px;
+    display: flex;
+    color: #999999;
+}
+.mar{
+    font-size: 15px;
+    display: flex;
+    align-content: center;
+    justify-content:space-between;
+    padding: 10px;
+}
+.RL{
+     margin-right: 15px;
+}
+.rq{
+    margin-left: 43px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.sj{
+    color: red;
+}
+.YJ{
+    float: right;
+    margin: 2px 10px 0 8px;
+}
+.ma3{
+      color: #999999;
+    font-size: 15px;
+}
+.ma1{
+     padding: 0 15px 0 20px;
+}
+.FT{
+     display: flex;
+     align-content: center;
+     justify-content: center;
+     background-color: #f8fafb;
+     width: 100%;
+    margin: 5px 0 0 0;
+}
+.ft{
+    color: #5fc0c9;
+    width: 50px;
+    text-align: center;
+    padding-right: 70px;
+}
+.ft img{
+    width: 100%;
+}
+.ft1{
+    padding-right: 70px;
+}
+.ft2{
+     color: #b0b1b1;
+     width: 50px;
+     text-align: center;
+}
