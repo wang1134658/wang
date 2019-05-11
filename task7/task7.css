@@ -34,7 +34,6 @@ header{
     margin-top: 19px;
 }
 .main-box2{
-    height: 48em;
     margin: 30px 10%;
     background-color: #ffff;
     width: 80%;
@@ -81,6 +80,6 @@ header{
 }
 .DBX{
     position: absolute;
-    right: 3vw;
+    right: 2vw;
     margin-top: 21px;
 }
