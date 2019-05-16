@@ -127,10 +127,10 @@ a:active {text-decoration:none;}
     display:block;
 }
 .audio{
-    width: 88px;
-    height: 27px;
+    width: 100px;
+    height: 24px;
     transform: rotate(180deg);
     opacity: 0;
     float: right;
-    margin: 20px;
+    margin: 20px 0;
 }
