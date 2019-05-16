@@ -1,14 +1,12 @@
-.box1{
-    height: 200px;
-    width: 200px;
-    background-color: brown;
-    margin: 10px;
+body{
+    margin: 0;
+}
+.box{
+    background-color: #b9e9f5;
 }
 .box1{
-    width: 600px;
-    height: 60px;
-    position: absolute;
-    left: 50%;
-    top: 0;
-    margin-left: -300px;
+    width: 6%;
+    background-color: #fbb435;
+    border-radius: 162px;
+    padding: 147px;
 }
