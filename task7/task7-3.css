@@ -76,12 +76,10 @@ body{
 .box1{
     color: #ffffff;
     display: flex;
-    width: 80%;
+    width: 90%;
     justify-content: space-between;
 }
-span{
 
-}
 .foot{
     display: flex;
     position: fixed;
