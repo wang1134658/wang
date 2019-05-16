@@ -63,6 +63,7 @@ header{
     color: white;
     width: 80%;
     display: block;
+    line-height: 78px;
 }
 .hover{
     display: flex;

@@ -40,7 +40,7 @@ body{
     margin-top: 1em;
 }
 .duration{
-    margin-top: 8em;
+    margin-top: 2em;
     border-bottom: 1px solid #31a8c4;
     padding-left: 10%;
 }
@@ -69,6 +69,7 @@ body{
 .time{
     float: right;
     color: #e3e3e3;
+    margin-right: 5%;
 }
 .box1{
     color: #ffffff;
