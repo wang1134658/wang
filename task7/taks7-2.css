@@ -127,8 +127,8 @@ a:active {text-decoration:none;}
     display:block;
 }
 .audio{
-    width: 95px;
-    height: 14px;
+    width: 88px;
+    height: 27px;
     transform: rotate(180deg);
     opacity: 0;
     float: right;
