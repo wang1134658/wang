@@ -140,5 +140,7 @@ a:active {text-decoration:none;}
 .game{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 155px;
+}
+.kong{
+    height: 200px;
 }

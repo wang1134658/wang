@@ -38,12 +38,14 @@ body{
     font-size: 19px;
     padding-left: 10%;
     margin-top: 1em;
+    padding-right: 10%;
 }
 .duration{
     margin-top: 2em;
     border-bottom: 1px solid #31a8c4;
     padding-left: 10%;
     padding-bottom: 1em;
+    padding-right: 10%;
 }
 .box{
     color: #ffffff;
@@ -53,6 +55,9 @@ body{
     border-bottom: 1px solid #dddddd;
     border-top: 1px solid #dddddd;
     height: 150px;
+}
+.kong{
+    height: 200px   ;
 }
 .day1{
     display: flex;

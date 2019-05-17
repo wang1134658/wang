@@ -31,7 +31,8 @@ header{
 }
 .main-box1{
     float: right;
-    margin-top: 19px;
+    margin-top: 12px;
+    margin-right:1%;
 }
 .main-box2{
     margin: 30px 10%;
@@ -72,7 +73,7 @@ header{
 }
 .hover1{
     background-color: #f0f0f0;
-    height: 13px;
+    height: 15px;
     width: 15px;
     border-radius: 50%;
     margin: 3px;
@@ -82,7 +83,7 @@ header{
 }
 .DBX{
     position: absolute;
-    right: 2vw;
+    right: 1%;
     margin-top: 21px;
 }
 a:link {text-decoration:none;}
