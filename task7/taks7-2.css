@@ -119,7 +119,7 @@ a:active {text-decoration:none;}
 .map{
     background-image: url("img/xuebitu.png");
     width: 100%;
-    height: 165px;
+    height: 25%;
     background-repeat: no-repeat;
     position: absolute;
     display: none;
