@@ -36,16 +36,16 @@ body{
 .explain{
     color: #ffc865;
     font-size: 19px;
-    padding-left: 10%;
+    padding-left: 5%;
     margin-top: 1em;
-    padding-right: 10%;
+    padding-right: 5%;
 }
 .duration{
     margin-top: 2em;
     border-bottom: 1px solid #31a8c4;
-    padding-left: 10%;
+    padding-left: 5%;
     padding-bottom: 1em;
-    padding-right: 10%;
+    padding-right: 5%;
 }
 .box{
     color: #ffffff;
@@ -62,16 +62,18 @@ body{
 .day1{
     display: flex;
     justify-content: space-between;
-    padding-left: 10%;
+    padding-left: 5%;
     font-size: 20px;
     padding-top: 6px;
     margin-bottom: 22px;
+    padding-right: 5%;
 }
 .day2{
     color: #a6a6a6;
-    padding-left: 10%;
+    padding-left: 5%;
     margin-top: 1vw;
     font-size: 17px;
+    padding-right: 5%;
 }
 .time{
     float: right;
