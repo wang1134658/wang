@@ -2,11 +2,49 @@ body{
     margin: 0;
 }
 .box{
-    background-color: #b9e9f5;
+    background-color: #5fc0c9;
+    width: 500px;
+    height: 500px;
 }
 .box1{
-    width: 6%;
-    background-color: #fbb435;
-    border-radius: 162px;
-    padding: 147px;
+    border-radius: 77px;
+    background-color: red;
+    width: 126px;
+    height: 126px;
+
+}
+.box3{
+    border-radius: 77px;
+    background-color: wheat;
+    width: 126px;
+    height: 126px;
+
+}
+.box2{
+    border-radius: 77px;
+    background-color: sandybrown;
+    width: 126px;
+    height: 126px;
+
+}
+.box4{
+    border-radius: 77px;
+    background-color: slateblue;
+    width: 126px;
+    height: 126px;
+
+}
+.box5{
+    border-radius: 77px;
+    background-color: cyan;
+    width: 126px;
+    height: 126px;
+
+}
+.Grid {
+    display: flex;
+}
+
+.Grid-cell {
+    flex: 1;
 }
